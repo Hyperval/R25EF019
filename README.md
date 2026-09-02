@@ -5,3 +5,8 @@ Hi, I'm Akhil (Reg No: R25EF019), a 3rd semester B.Tech CSE student at REVA Univ
 - Learning Python
 - Interested in cloud computing
 - Goal: contribute to open source
+
+## Projects
+
+- **hello-world-c** — my first C program written for this course, a basic "Hello, World!" implementation.
+- **Portfolio Building coursework** — ongoing activities and mini-projects from the semester, tracked in this repo.
