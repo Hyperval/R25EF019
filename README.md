@@ -4,3 +4,4 @@ Hi, I'm Akhil (Reg No: R25EF019), a 3rd semester B.Tech CSE student at REVA Univ
 
 - Learning Python
 - Interested in cloud computing
+- Goal: contribute to open source
